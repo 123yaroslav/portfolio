@@ -2,7 +2,7 @@
 
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1.   | [Финальный проект Яндекс Практикум (Python)](https://github.com/123yaroslav/portfolio/tree/main/Final%20project%20Yandex%20Praktikum) | Выбор лучшей модели для увеличения <br/>показателей технологического процесса <br/>обогащения золота | python, pandas, numpy, scipy, sklearn, matplotlib       |
+| 1.   | [Финальный проект Яндекс Практикум (Python)](https://github.com/123yaroslav/portfolio/tree/main/Final%20project%20Yandex%20Praktikum) | Выяснение причин оттока клиентов <br/> и составление рекоммендаций по их сохранению | python, pandas, numpy, scipy, sklearn, matplotlib, seaborn, sklearn       |
 | 2.   | [Проект по A/B-тестированию (Python)](https://github.com/123yaroslav/portfolio/tree/main/AB%20testing%20project) | Прогноз количества заказов в аэропортах <br/>для сервиса такси с целью более точного планирования количества доступных <br/>автомобилей | python, pandas, numpy, statsmodels, sklearn, CatBoost, matplotlib |
 | 3.   | [Проект по геоаналитике (Python)](https://github.com/123yaroslav/portfolio/tree/main/Geoanalytics%20project) | Анализ комментариев пользователей на токсичность             | python, pandas, numpy, nltk, sklearn, CatBoost |
 | 4.   | [Дашборды (Tableau)](https://github.com/123yaroslav/portfolio/tree/main/Dashboard) | Анализ комментариев пользователей на токсичность             | python, pandas, numpy, nltk, sklearn, CatBoost |
